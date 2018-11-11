@@ -1,0 +1,19 @@
+body {color:#fff;font-family:GSR, Arial, sans-serif !important;}
+.frame {padding:5%;text-align:center;width:50%;height:100vh;}
+.blue {background-color:#001a66;}
+.green {background-color:#006633;}
+.title {font-family:GSB, Arial, sans-serif !important;}
+iframe {width:400px;height:200px;}
+
+
+
+
+
+@font-face {
+  font-family: GSB;
+  src: url(PSB.ttf);
+}
+@font-face {
+  font-family: GSR;
+  src: url(PSR.ttf);
+}

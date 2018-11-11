@@ -1,5 +1,5 @@
-body {color:#fff;font-family:GSR, Arial, sans-serif !important;}
-.frame {padding:5%;text-align:center;width:50%;height:100vh;}
+body {color:#fff;font-family:GSR, Arial, sans-serif !important;background-color:#000;}
+.frame {padding:5%;padding-bottom:15%;text-align:center;width:50%;}
 .blue {background-color:#001a66;}
 .green {background-color:#006633;}
 .title {font-family:GSB, Arial, sans-serif !important;}
